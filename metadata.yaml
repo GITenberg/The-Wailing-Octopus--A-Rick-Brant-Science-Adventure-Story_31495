@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7833
     wikipedia: http://en.wikipedia.org/wiki/Harold_L._Goodwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31495#The-Wailing-Octopus--A-Rick-Brant-Science-Adventure-Story
 gutenberg_issued: '2010-03-03'
 gutenberg_type: Text
 identifiers:
